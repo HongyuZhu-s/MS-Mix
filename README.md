@@ -13,9 +13,10 @@ Although Mixup-based augmentation improves generalization in unimodal tasks, its
 ### 📬 If you are interested in my work, you can contact me by email: zhuhongyu@cigit.ac.cn
 
 ___
-## 🛠 Installation
+## 1. Installation
 We use the **M-SENA framework** ("https://github.com/thuiar/MMSA") to evaluate MSA models. It is a unified framework for multimodal sentiment analysis. Please install it before proceeding.
 
 *Run `pip install MMSA` in your python virtual environment.*
 
-
+## 2. Dataset
+We conducted extensive experiments on the CMU-MOSI, CMU-MOSEI, and CH-SIMS datasets. You can download raw videos, feature files, and label files via the following links: [Dataset](https://drive.google.com/drive/folders/1A2S4pqCHryGmiqnNSPLv7rEg63WvjCSk?usp=sharing)
