@@ -8,7 +8,7 @@ class="center">
 </p>
 
 <div align="left">
-Although Mixup-based augmentation improves generalization in unimodal tasks, its direct application to MSA introduces critical challenges: random mixing often amplifies label ambiguity and semantic inconsistency due to the lack of emotion-aware mixing mechanisms. To overcome these issues, we propose **MS-Mix**, an adaptive, emotion-sensitive augmentation framework that automatically optimizes sample mixing in multimodal settings.
+Although Mixup-based augmentation improves generalization in unimodal tasks, its direct application to MSA introduces critical challenges: random mixing often amplifies label ambiguity and semantic inconsistency due to the lack of emotion-aware mixing mechanisms. To overcome these issues, we propose MS-Mix, an adaptive, emotion-sensitive augmentation framework that automatically optimizes sample mixing in multimodal settings.
   
 
 ## 1. Installation
