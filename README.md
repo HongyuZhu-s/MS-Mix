@@ -3,7 +3,7 @@
 <h2>MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis</a></h2>
 
 <p align="center">
-<img src="https://github.com/HongyuZhu-s/MS-Mix/blob/main/Fig/5ffb62f0-398d-430e-90ab-f8a76d46b080.png" width=75% height=75% 
+<img src="https://github.com/HongyuZhu-s/MS-Mix/blob/main/Figs/8894c352-5b03-4db7-ba93-23277e89e530.png" width=75% height=75% 
 class="center">
 </p>
 
