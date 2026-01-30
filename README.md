@@ -1,6 +1,6 @@
 <div align="center">
-<!-- <h1>MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis</h1> -->
-<h2>MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis</a></h2>
+<!-- <h1>MS-Mix: An Adaptive Emotion-Sensitive Mixup Framework for Multimodal Sentiment Analysis </h1> -->
+<h2>MS-Mix: An Adaptive Emotion-Sensitive Mixup Framework for Multimodal Sentiment Analysis </a></h2>
 
 <p align="center">
 <img src="https://github.com/HongyuZhu-s/MS-Mix/blob/main/Figs/8894c352-5b03-4db7-ba93-23277e89e530.png" width=75% height=75% 
