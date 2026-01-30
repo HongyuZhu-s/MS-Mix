@@ -19,5 +19,23 @@ We use the **M-SENA framework** ("https://github.com/thuiar/MMSA") to evaluate M
 ## 2. Dataset
 We conducted extensive experiments on the CMU-MOSI, CMU-MOSEI, and CH-SIMS datasets. You can download raw videos, feature files, and label files via the following links: [Dataset](https://drive.google.com/drive/folders/1A2S4pqCHryGmiqnNSPLv7rEg63WvjCSk?usp=sharing)
 
+## 3. Getting Started
+After install MMSA and download dataset, replace the data link in code (/config_regression.json).
+
+Choose the mixup variants or not.
+
+Create a new _.py_ file in the project and run it:
+```Python
+import os
+os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
+from MMSA import MMSA_run
+
+def main():
+    MMSA_run('almt', 'mosei', seeds=[1111], gpu_ids=[0])
+
+if __name__ == '__main__':
+    main()
+```
+
 ___
 ### If you are interested in my work, you can contact me by email: zhuhongyu@cigit.ac.cn
