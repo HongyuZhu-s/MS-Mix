@@ -43,5 +43,3 @@ if __name__ == '__main__':
     main()
 ```
 
-___
-### If you are interested in my work, you can contact me by email: zhuhongyu@cigit.ac.cn
