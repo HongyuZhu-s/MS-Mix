@@ -3,6 +3,7 @@
 
 <p align="center">
 <img src="https://github.com/HongyuZhu-s/MS-Mix/blob/main/Figs/ff5a0d2d-b570-494c-b7be-61702d00eba1.png" width=75% height=75% 
+<img src="https://github.com/HongyuZhu-s/MS-Mix/blob/main/Figs/ce49e381-b512-4063-b926-ebfed167a388.png" width=75% height=75% 
 class="center">
 
 </p>
