@@ -1,4 +1,3 @@
-<img width="994" height="384" alt="image" src="https://github.com/user-attachments/assets/c264788a-08dd-4d0e-8238-e166bf55d0d8" /><div align="center">
 <!-- <h1>MS-Mix: Sentiment-Guided Adaptive Augmentation for Multimodal Sentiment Analysis </h1> -->
 <h2>MS-Mix: An Adaptive Emotion-Sensitive Mixup Framework for Multimodal Sentiment Analysis </a></h2>
 
