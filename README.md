@@ -3,7 +3,7 @@
 <h2>MS-Mix: An Adaptive Emotion-Sensitive Mixup Framework for Multimodal Sentiment Analysis </a></h2>
 
 <p align="center">
-<img src="https://github.com/HongyuZhu-s/MS-Mix/blob/main/Figs/8894c352-5b03-4db7-ba93-23277e89e530.png" width=75% height=75% 
+<img src="https://github.com/HongyuZhu-s/MS-Mix/blob/main/Figs/ff5a0d2d-b570-494c-b7be-61702d00eba1.png" width=75% height=75% 
 class="center">
 </p>
 
