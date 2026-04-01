@@ -1,11 +1,14 @@
-<div align="center">
-<!-- <h1>MS-Mix: An Adaptive Emotion-Sensitive Mixup Framework for Multimodal Sentiment Analysis </h1> -->
+<img width="994" height="384" alt="image" src="https://github.com/user-attachments/assets/c264788a-08dd-4d0e-8238-e166bf55d0d8" /><div align="center">
+<!-- <h1>MS-Mix: Sentiment-Guided Adaptive Augmentation for Multimodal Sentiment Analysis </h1> -->
 <h2>MS-Mix: An Adaptive Emotion-Sensitive Mixup Framework for Multimodal Sentiment Analysis </a></h2>
 
 <p align="center">
 <img src="https://github.com/HongyuZhu-s/MS-Mix/blob/main/Figs/ff5a0d2d-b570-494c-b7be-61702d00eba1.png" width=75% height=75% 
 class="center">
+
 </p>
+
+
 
 <div align="left">
 Although Mixup-based augmentation improves generalization in unimodal tasks, its direct application to MSA introduces critical challenges: random mixing often amplifies label ambiguity and semantic inconsistency due to the lack of emotion-aware mixing mechanisms. To overcome these issues, we propose MS-Mix, an adaptive, emotion-sensitive augmentation framework that automatically optimizes sample mixing in multimodal settings.
