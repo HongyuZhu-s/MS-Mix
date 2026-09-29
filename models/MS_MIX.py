@@ -113,7 +113,7 @@ def compute_kl_loss(I_a, I_t, I_v, labels, epsilon=1e-8):
     return kl_loss * 1000
 
 
-def MS_Mix(f_a, f_t, f_v, labels, intensity_predictors, alpha=2.0, threshold=0.4,
+def MS_Mix(f_a, f_t, f_v, labels, intensity_predictors, alpha=2.0, threshold=0.0,
             num_mix=None, gamma=1.0):
 
     B = f_a.size(0)
