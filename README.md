@@ -1,5 +1,5 @@
-<!-- <h1>MS-Mix: Sentiment-Guided Adaptive Augmentation for Multimodal Sentiment Analysis </h1> -->
-<h2>MS-Mix: An Adaptive Emotion-Sensitive Mixup Framework for Multimodal Sentiment Analysis </a></h2>
+<!-- <h1>Dual-Decoupling Augmentation for Multimodal Sentiment Analysis </h1> -->
+<h2>Dual-Decoupling Augmentation for Multimodal Sentiment Analysis </a></h2>
 
 <p align="center">
 <img src="https://github.com/HongyuZhu-s/MS-Mix/blob/main/Figs/ff5a0d2d-b570-494c-b7be-61702d00eba1.png" width=75% height=75% 
